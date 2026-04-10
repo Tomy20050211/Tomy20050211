@@ -69,9 +69,9 @@
 
 ```typescript
 const yo = {
-  enfoque:     ["TypeScript", "Next.js", "APIs REST"],
-  baseDatos:   ["PostgreSQL", "Prisma ORM"],
-  filosofia:   "Cero any. Siempre tipado. 🔷"
+  enfoque: ["TypeScript", "Next.js", "APIs REST"],
+  baseDatos: ["PostgreSQL", "Prisma ORM"],
+  filosofia: "Cero any. Siempre tipado. 🔷"
 } as const;
 ```
 
