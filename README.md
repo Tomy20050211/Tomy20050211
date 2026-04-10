@@ -9,16 +9,6 @@
 
 <br/>
 
-<!-- Redes -->
-<a href="https://linkedin.com/in/tuhandle">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/tuhandle">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:tu@email.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 <br/><br/>
 
@@ -73,18 +63,7 @@
   </tr>
 </table>
 
----
 
-### 📊 GitHub Stats
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=TUHANDLE&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3178c6&icon_color=3178c6&text_color=c9d1d9"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUHANDLE&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3178c6&text_color=c9d1d9&langs_count=6"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TUHANDLE&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3178c6&fire=f7df1e&currStreakLabel=3178c6"/>
-
----
 
 ### 🚀 Sobre mí
 
