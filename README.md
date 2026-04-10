@@ -3,7 +3,7 @@
 <!-- Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3178c6&height=120&section=header&text=TypeScript%20Developer&fontSize=36&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 
-<h1>Hola, soy 
+<h1>
 <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=28&pause=1000&color=FFFFFF&center=false&vCenter=true&width=340&height=40&lines=Thomas+Salazar+Ruiz" alt="Thomas Salazar Ruiz"/>
 </h1>
 
