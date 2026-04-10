@@ -59,11 +59,7 @@
 
 <br/>
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 36" width="520" height="36">
-  <text x="260" y="24" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="15" font-weight="600" fill="#3178c6">
-    TypeScript first. Always typed. Never any.
-  </text>
-</svg>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=3178C6&center=true&vCenter=true&width=600&height=50&lines=TypeScript+first.+Always+typed.+Never+any." alt="Typing SVG"/>
 
 <br/>
 
