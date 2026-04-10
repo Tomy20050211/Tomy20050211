@@ -4,13 +4,14 @@
 
 <br/>
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 55" width="520" height="55">
-  <text x="260" y="42" text-anchor="middle" font-family="Arial" font-size="36" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 90" width="520" height="90">
+  <text x="260" y="38" text-anchor="middle" font-family="Arial" font-size="36" font-weight="bold">
     <tspan fill="#3178c6">T</tspan><tspan fill="#e6edf3">homas </tspan><tspan fill="#3178c6">S</tspan><tspan fill="#e6edf3">alazar Ruiz</tspan>
   </text>
+  <text x="260" y="72" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="15" font-weight="600" fill="#3178c6">
+    TypeScript first. Always typed. Never any.
+  </text>
 </svg>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=3178C6&center=true&vCenter=true&width=440&height=32&lines=TypeScript+first.+Always+typed.+Never+any." alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -51,6 +52,10 @@
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
       <br/><sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma"/>
+      <br/><sub><b>Figma</b></sub>
     </td>
   </tr>
 </table>
