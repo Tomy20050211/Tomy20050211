@@ -4,12 +4,9 @@
 
 <br/>
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 90" width="520" height="90">
-  <text x="260" y="38" text-anchor="middle" font-family="Arial" font-size="36" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 55" width="520" height="55">
+  <text x="260" y="42" text-anchor="middle" font-family="Arial" font-size="38" font-weight="bold">
     <tspan fill="#3178c6">T</tspan><tspan fill="#e6edf3">homas </tspan><tspan fill="#3178c6">S</tspan><tspan fill="#e6edf3">alazar Ruiz</tspan>
-  </text>
-  <text x="260" y="72" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="15" font-weight="600" fill="#3178c6">
-    TypeScript first. Always typed. Never any.
   </text>
 </svg>
 
@@ -59,6 +56,14 @@
     </td>
   </tr>
 </table>
+
+<br/>
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 36" width="520" height="36">
+  <text x="260" y="24" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="15" font-weight="600" fill="#3178c6">
+    TypeScript first. Always typed. Never any.
+  </text>
+</svg>
 
 <br/>
 
