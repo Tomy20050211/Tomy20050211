@@ -3,19 +3,15 @@
 <!-- Banner superior -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:3178c6&height=140&section=header&text=TypeScript%20Developer&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Fullstack%20%7C%20Next.js%20%7C%20PostgreSQL&descSize=16&descAlignY=62&animation=fadeIn"/>
 
-<!-- Nombre con T y S en azul -->
+<!-- Nombre con T y S en azul — CENTRADO -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 55" width="520" height="55">
-  <text y="42" font-family="Arial" font-size="36" font-weight="bold">
+  <text x="260" y="42" text-anchor="middle" font-family="Arial" font-size="36" font-weight="bold">
     <tspan fill="#3178c6">T</tspan><tspan fill="#e6edf3">homas </tspan><tspan fill="#3178c6">S</tspan><tspan fill="#e6edf3">alazar Ruiz</tspan>
   </text>
 </svg>
 
-<!-- Typing animado -->
+<!-- Typing animado DEBAJO del nombre -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=3178C6&center=true&vCenter=true&width=500&height=36&lines=TypeScript+first.+Always+typed.+Never+any.;Fullstack+Developer+%F0%9F%94%B7;Next.js+%2B+PostgreSQL+%2B+Python;Open+to+collaborate+%F0%9F%9A%80" alt="Typing SVG"/>
-
-<br/>
-
-<!-- Badges de redes -->
 
 <br/><br/>
 
@@ -34,7 +30,7 @@
       <br/><sub><b>JavaScript</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" style="filter:invert(1)"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js"/>
       <br/><sub><b>Next.js</b></sub>
     </td>
     <td align="center" width="96">
