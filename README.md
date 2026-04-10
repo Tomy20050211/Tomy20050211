@@ -96,3 +96,22 @@
 ## 🚀 Sobre mí
 
 ```typescript
+const thomas = {
+  nombre:      "Thomas Salazar Ruiz",
+  rol:         "Fullstack Developer",
+  enfoque:     ["TypeScript", "Next.js", "REST APIs"],
+  baseDatos:   ["PostgreSQL", "SQL"],
+  aprendiendo: ["tRPC", "Zod", "Docker"],
+  filosofia:   "Cero any. Siempre tipado. 🔷",
+  contacto:    "tu@email.com"
+} as const;
+```
+
+<br/>
+
+---
+
+<!-- Banner inferior -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3178c6,50:1a3a5c,100:0d1117&height=100&section=footer"/>
+
+</div>
