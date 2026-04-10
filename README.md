@@ -3,7 +3,13 @@
 <!-- Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3178c6&height=120&section=header&text=TypeScript%20Developer&fontSize=36&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 
-<h1>Hola, soy <strong><span style="color:#3178c6">T</span>homas <span style="color:#3178c6">S</span>alazar</strong></h1>
+<h1>Hola, soy 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 40" width="420" height="40">
+  <text y="32" font-family="Arial" font-size="28" font-weight="bold">
+    <tspan fill="#3178c6">T</tspan><tspan fill="white">homas </tspan><tspan fill="#3178c6">S</tspan><tspan fill="white">alazar Ruiz</tspan>
+  </text>
+</svg>
+</h1>
 
 <p><code>// TypeScript first. Always typed. Never <em>any</em>.</code></p>
 
