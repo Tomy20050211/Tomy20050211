@@ -71,7 +71,6 @@
 const yo = {
   enfoque:     ["TypeScript", "Next.js", "APIs REST"],
   baseDatos:   ["PostgreSQL", "Prisma ORM"],
-  aprendiendo: ["tRPC", "Zod", "Edge Functions"],
   filosofia:   "Cero any. Siempre tipado. 🔷"
 } as const;
 ```
