@@ -4,11 +4,7 @@
 
 <br/>
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 80" width="700" height="80">
-  <text x="350" y="58" text-anchor="middle" font-family="Georgia, serif" font-size="52" font-weight="bold" letter-spacing="2">
-    <tspan fill="#3178c6">T</tspan><tspan fill="#e6edf3">homas </tspan><tspan fill="#3178c6">S</tspan><tspan fill="#e6edf3">alazar Ruiz</tspan>
-  </text>
-</svg>
+<h1>Thomas Salazar Ruiz</h1>
 <br/><br/>
 
 <table>
