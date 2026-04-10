@@ -4,12 +4,11 @@
 
 <br/>
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 55" width="520" height="55">
-  <text x="460" y="42" text-anchor="middle" font-family="Arial" font-size="38" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 80" width="700" height="80">
+  <text x="350" y="58" text-anchor="middle" font-family="Georgia, serif" font-size="52" font-weight="bold" letter-spacing="2">
     <tspan fill="#3178c6">T</tspan><tspan fill="#e6edf3">homas </tspan><tspan fill="#3178c6">S</tspan><tspan fill="#e6edf3">alazar Ruiz</tspan>
   </text>
 </svg>
-
 <br/><br/>
 
 <table>
