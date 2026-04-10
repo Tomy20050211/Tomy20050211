@@ -1,20 +1,38 @@
 <div align="center">
 
-<!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3178c6&height=120&section=header&text=TypeScript%20Developer&fontSize=36&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+<!-- Banner superior -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:3178c6&height=140&section=header&text=TypeScript%20Developer&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Fullstack%20%7C%20Next.js%20%7C%20PostgreSQL&descSize=16&descAlignY=62&animation=fadeIn"/>
 
-<h1>
-<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=28&pause=1000&color=FFFFFF&center=false&vCenter=true&width=340&height=40&lines=Thomas+Salazar+Ruiz" alt="Thomas Salazar Ruiz"/>
-</h1>
+<!-- Nombre con T y S en azul -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 55" width="520" height="55">
+  <text y="42" font-family="Arial" font-size="36" font-weight="bold">
+    <tspan fill="#3178c6">T</tspan><tspan fill="#e6edf3">homas </tspan><tspan fill="#3178c6">S</tspan><tspan fill="#e6edf3">alazar Ruiz</tspan>
+  </text>
+</svg>
 
-<p><code>// TypeScript first. Always typed. Never <em>any</em>.</code></p>
+<!-- Typing animado -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=3178C6&center=true&vCenter=true&width=500&height=36&lines=TypeScript+first.+Always+typed.+Never+any.;Fullstack+Developer+%F0%9F%94%B7;Next.js+%2B+PostgreSQL+%2B+Python;Open+to+collaborate+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/>
 
+<!-- Badges de redes -->
+<a href="https://linkedin.com/in/tuhandle">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Tomy20050211">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:tu@email.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
 
 ---
 
-### 🔷 Stack Tecnológico
+## 🔷 Stack Tecnológico
 
 <table>
   <tr>
@@ -27,7 +45,7 @@
       <br/><sub><b>JavaScript</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" style="filter:invert(1)"/>
       <br/><sub><b>Next.js</b></sub>
     </td>
     <td align="center" width="96">
@@ -38,8 +56,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
       <br/><sub><b>PostgreSQL</b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL"/>
       <br/><sub><b>SQL</b></sub>
@@ -56,27 +72,27 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
       <br/><sub><b>HTML5</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>
-      <br/><sub><b>VS Code</b></sub>
-    </td>
   </tr>
 </table>
 
-
-
-### 🚀 Sobre mí
-
-```typescript
-const yo = {
-  enfoque: ["TypeScript", "Next.js", "APIs REST"],
-  baseDatos: ["PostgreSQL", "Prisma ORM"],
-  filosofia: "Cero any. Siempre tipado. 🔷"
-} as const;
-```
+<br/>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3178c6&height=80&section=footer"/>
+## 📊 GitHub Stats
 
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tomy20050211&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3178c6&icon_color=3178c6&text_color=c9d1d9&rank_icon=github"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomy20050211&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3178c6&text_color=c9d1d9&langs_count=6"/>
+
+<br/>
+
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tomy20050211&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3178c6&fire=f7df1e&currStreakLabel=3178c6&sideLabels=8b949e&dates=8b949e"/>
+
+<br/><br/>
+
+---
+
+## 🚀 Sobre mí
+
+```typescript
