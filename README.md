@@ -7,22 +7,31 @@
 <br/>
 
 ### 🧠 Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-%23dc2626.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23dc2626.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%23dc2626.svg?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23dc2626.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%23dc2626.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts" width="48" title="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=js" width="48" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=python" width="48" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=html" width="48" title="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" width="48" title="CSS3"/>
+</p>
 
 ### ⚡ Frameworks & Libraries
-![Next.js](https://img.shields.io/badge/Next.js-%23dc2626.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-%23dc2626.svg?style=for-the-badge&logo=react&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-%23dc2626.svg?style=for-the-badge&logo=prisma&logoColor=white)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" title="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=react" width="48" title="React"/>
+  <img src="https://skillicons.dev/icons?i=prisma" width="48" title="Prisma"/>
+</p>
 
 ### 🗄️ Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23dc2626.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%23dc2626.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23dc2626.svg?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23dc2626.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" title="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=git" width="48" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="48" title="Figma"/>
+</p>
 
 <br/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,50:8b0000,100:1a0000&height=80&section=footer&animation=fadeIn"/>
