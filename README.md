@@ -45,17 +45,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ThomasSalazarRuiz&show_icons=true&theme=transparent&hide_border=true&title_color=dc2626&icon_color=dc2626&text_color=ffffff&bg_color=0d0000"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasSalazarRuiz&layout=compact&theme=transparent&hide_border=true&title_color=dc2626&text_color=ffffff&bg_color=0d0000"/>
-</p>
-
-<br/>
-
-![Snake animation](https://raw.githubusercontent.com/ThomasSalazarRuiz/ThomasSalazarRuiz/output/github-contribution-grid-snake-dark.svg)
-
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,50:8b0000,100:1a0000&height=80&section=footer&animation=fadeIn"/>
