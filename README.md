@@ -11,7 +11,7 @@
 ---
 
 <br/>
-### Languages
+###  Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts" width="48" title="TypeScript"/>
