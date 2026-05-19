@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8b0000,100:dc2626&height=140&section=header&text=TypeScript%20Developer&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Fullstack%20%7C%20Next.js%20%7C%20PostgreSQL&descSize=16&descAlignY=62&animation=fadeIn"/>
+<img width="200%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8b0000,100:dc2626&height=140&section=header&text=TypeScript%20Developer&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Fullstack%20%7C%20Next.js%20%7C%20PostgreSQL&descSize=16&descAlignY=62&animation=fadeIn"/>
 
 <br/>
 
