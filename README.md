@@ -6,15 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&width=500&lines=Thomas+Salazar+Ruiz;Fullstack+Developer;TypeScript+%7C+Next.js+%7C+React)](https://git.io/typing-svg)
 
-<br/>
 
-> 🔥 *Construyendo interfaces rápidas, limpias y escalables.*
-
-<br/>
-
----
-
-### 🧠 Languages
+### Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts" width="48" title="TypeScript"/>
@@ -24,7 +17,7 @@
   <img src="https://skillicons.dev/icons?i=css" width="48" title="CSS3"/>
 </p>
 
-### ⚡ Frameworks & Libraries
+###  Frameworks & Libraries
 
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs" width="48" title="Next.js"/>
@@ -32,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=prisma" width="48" title="Prisma"/>
 </p>
 
-### 🗄️ Databases & Tools
+###  Databases & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres" width="48" title="PostgreSQL"/>
