@@ -6,7 +6,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&width=500&lines=Thomas+Salazar+Ruiz;Fullstack+Developer;TypeScript+%7C+Next.js+%7C+React)](https://git.io/typing-svg)
 
+<br/>
 
+---
+
+<br/>
 ### Languages
 
 <p>
@@ -34,11 +38,7 @@
   <img src="https://skillicons.dev/icons?i=figma" width="48" title="Figma"/>
 </p>
 
-<br/>
 
----
-
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,50:8b0000,100:1a0000&height=80&section=footer&animation=fadeIn"/>
 
