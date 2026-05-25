@@ -22,5 +22,14 @@ Turning ideas into scalable and responsive web applications.
 
 Currently building projects focused on performance,
 accessibility and exceptional user experience.
+<div align="center">
 
+### 💻 Developer Stats
+
+```javascript
+const developer = {
+  coffee: Infinity,
+  bugs: Infinity,
+  confidence: "works on my machine",
+};
 </div>
