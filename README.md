@@ -24,7 +24,7 @@ Currently building projects focused on performance,
 accessibility and exceptional user experience.
 <div align="center">
 
-### 💻 Developer Stats
+
 
 ```javascript
 const developer = {
