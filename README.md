@@ -32,4 +32,4 @@ const developer = {
   bugs: Infinity,
   confidence: "works on my machine",
 };
-</div>
+
