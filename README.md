@@ -8,11 +8,3 @@
 
 <br><br><br>
 
-</div>
-
-```javascript
-const developer = {
-  coffee: Infinity,
-  bugs: Infinity,
-  confidence: "works on my machine",
-};
