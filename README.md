@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/sasuke.jpg" width="100%" alt="Banner" />
+
 # Thomas Salazar
 
 ### Frontend Developer • React Specialist • UI Enthusiast
