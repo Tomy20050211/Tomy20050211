@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/img/bannerCat.png" width="100%" alt="Banner" />
+<img src="./assets/img/newBanner.png" width="100%" alt="Banner" />
 
 # Thomas Salazar
 
