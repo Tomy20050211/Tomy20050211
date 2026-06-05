@@ -8,25 +8,10 @@
 
 ---
 
-<table>
-<tr>
-<td align="center">
-
-### 🚀 About Me
 
 Turning ideas into scalable and responsive web applications.
 
-</td>
-</tr>
-</table>
 
-<br>
-
-<table>
-<tr>
-<td align="center">
-
-### 🛠 Tech Stack
 
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,express,python,mongodb,postgres,mysql,prisma,git,github,figma,html,css" />
 
@@ -37,25 +22,12 @@ Turning ideas into scalable and responsive web applications.
 `PostgreSQL` `MySQL` `Prisma`  
 `Git` `GitHub` `Figma`
 
-</td>
-</tr>
-</table>
 
-<br>
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🎯 Focus
 
 Currently building projects focused on performance, accessibility and exceptional user experience.
 
-</td>
 
-<td width="50%" align="center">
-
-### 💻 Developer Mode
 
 ```javascript
 const developer = {
