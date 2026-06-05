@@ -10,20 +10,19 @@ Turning ideas into scalable and responsive web applications.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,python,mongodb,postgres,mysql,prisma,git,figma,html,css" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,express,python,mongodb,postgres,mysql,prisma,git,github,figma,html,css" />
 
 <br><br>
 
 `TypeScript` `JavaScript` `React` `Next.js`
-`Python` `MongoDB` `PostgreSQL`
-`MySQL` `Prisma` `Git` `Figma`
+`Express.js` `Python` `MongoDB`
+`PostgreSQL` `MySQL` `Prisma`
+`Git` `GitHub` `Figma`
 
 ---
 
 Currently building projects focused on performance,
 accessibility and exceptional user experience.
-
-<div align="center">
 
 ```javascript
 const developer = {
