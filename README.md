@@ -2,15 +2,7 @@
 
 <img src="./assets/img/newBanner.png" width="100%" alt="Banner" />
 
-# Thomas Salazar
-
-### Frontend Developer • React Specialist • UI Enthusiast
-
----
-
-
-Turning ideas into scalable and responsive web applications.
-
+# Thomas Salazar Ruiz
 
 
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,express,python,mongodb,postgres,mysql,prisma,git,github,figma,html,css" />
@@ -21,11 +13,6 @@ Turning ideas into scalable and responsive web applications.
 `Express.js` `Python` `MongoDB`  
 `PostgreSQL` `MySQL` `Prisma`  
 `Git` `GitHub` `Figma`
-
-
-
-
-Currently building projects focused on performance, accessibility and exceptional user experience.
 
 
 
