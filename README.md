@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/sasuke.jpg" width="100%" alt="Banner" />
+<img src="./assets/img/sasuke.jpg" width="100%" alt="Banner" />
 
 # Thomas Salazar
 
