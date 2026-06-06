@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/img/a07684d4-93d4-452c-b2ee-bd7eeb2e52c5.jpg" width="100%" alt="Banner" />
+<img src="./assets/img/98ae75e8-8b6a-43f5-ab2b-3dee4d8a5615.jpg" width="100%" alt="Banner" />
 
 <br><br><br>
 
