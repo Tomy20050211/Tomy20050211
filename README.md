@@ -26,6 +26,6 @@ built with modern frontend technologies.
 
 <br><br>
 
-<img src="./assets/img/logo.jpg" />
+
 
 </div>
