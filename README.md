@@ -26,6 +26,6 @@ built with modern frontend technologies.
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=algolia&no-frame=true&margin-w=10" />
+<img src="./assets/img/logo.jpg" />
 
 </div>
